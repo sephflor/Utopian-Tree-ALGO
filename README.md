@@ -1,1 +1,1 @@
-# Utopian-Tree-ALGO
+# Utopian-Tree-ALGO.The tree doubles in height during spring (odd cycles) and grows by 1 during summer (even cycles). The function simulates each growth cycle and returns the final height after n cycles.
